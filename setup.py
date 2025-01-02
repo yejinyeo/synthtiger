@@ -4,7 +4,6 @@ from setuptools import find_packages, setup
 
 ROOT = os.path.abspath(os.path.dirname(__file__))
 
-# github 백업 test용
 
 def read_version():
     data = {}
