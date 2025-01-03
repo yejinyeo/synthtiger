@@ -1,0 +1,10 @@
+images/0/1.jpg	Shrink
+images/0/2.jpg	TENNIS
+images/0/0.jpg	CRANKING
+images/0/4.jpg	yards
+images/0/6.jpg	ackman
+images/0/8.jpg	the
+images/0/7.jpg	16:52:14
+images/0/9.jpg	steak
+images/0/5.jpg	RUBIER
+images/0/3.jpg	ITERATIVE

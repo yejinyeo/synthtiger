@@ -1,0 +1,10 @@
+images/0/1.jpg	Saliva
+images/0/0.jpg	COZILY
+images/0/3.jpg	IRE
+images/0/2.jpg	TAYLOR
+images/0/7.jpg	16
+images/0/6.jpg	ackerman
+images/0/8.jpg	the
+images/0/9.jpg	stability
+images/0/4.jpg	worked
+images/0/5.jpg	ROMES
