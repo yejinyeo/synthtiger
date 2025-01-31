@@ -16,18 +16,18 @@ corpus:
   weights: [1, 0]
   args:
     # length augmentable corpus
-    - paths: [resources/corpus/mjsynth.txt, resources/corpus/synthtext.txt]
-      weights: [1, 1]
-      min_length: 1
-      max_length: 25
+    - paths: [resources/corpus/viper_variant_words.txt]
+      weights: [1]
+      min_length: 2
+      max_length: 27
       textcase: [lower, upper, capitalize]
-      augmentation: 0.1
+      augmentation: 0
       augmentation_length: [1, 25]
     # char augmentable corpus
     - paths: []
       weights: []
-      min_length: 1
-      max_length: 25
+      min_length: 2
+      max_length: 27
       textcase: [lower, upper, capitalize]
       augmentation: 0
       augmentation_charset: resources/charset/alphanum_special.txt
